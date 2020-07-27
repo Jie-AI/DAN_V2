@@ -1,0 +1,9 @@
+model_dir
+__pycache__
+test_processed
+testset
+trainset
+results
+test_processed_uclan
+train_processed
+Uclan_test

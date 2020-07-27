@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9d0fd2ca-b673-47d1-8c54-9e547c4ef503" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1eynsAaiAgeXMWqWGKEB7k8Gurc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Deep-Alignment-Network_Tensorflow/DAN-TF/trainDAN.py" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d0fd2ca-b673-47d1-8c54-9e547c4ef503" name="Default Changelist" comment="" />
+      <created>1595302904868</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595302904868</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="809" y="311" width="424" height="484" key="FileChooserDialogImpl" timestamp="1595535104386">
+      <screen x="47" y="27" width="1873" height="1053" />
+    </state>
+    <state x="809" y="311" width="424" height="484" key="FileChooserDialogImpl/47.27.1873.1053/1920.0.1920.1080@47.27.1873.1053" timestamp="1595535104386" />
+  </component>
+</project>
